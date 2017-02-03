@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\bin\CharacterApp.dll.config
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\bin\CharacterApp.dll
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\bin\CharacterApp.pdb
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\obj\Debug\CharacterApp.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\obj\Debug\CharacterApp.dll
+c:\users\student\documents\visual studio 2013\Projects\CharacterApp\CharacterApp\obj\Debug\CharacterApp.pdb
