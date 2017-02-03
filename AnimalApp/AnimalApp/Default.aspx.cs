@@ -32,6 +32,10 @@ namespace AnimalApp
             {
                 resultLabel.Text = "You are patient, strong, and reliable.";
             }
+            else
+            {
+                resultLabel.Text = "Please select one of the following options.";
+            }
         }
     }
 }
